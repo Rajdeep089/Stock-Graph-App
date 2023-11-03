@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+*** Before running this react app, you have to run "node server.js" command in the terminal first, it will start the server in the 4000 port. Then you can start this app by typing "npm start" in a new terminal.
+
 In the project directory, you can run:
 
 ### `npm start`
